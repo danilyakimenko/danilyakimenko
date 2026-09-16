@@ -58,11 +58,9 @@ I'm a **Junior Frontend Engineer** focused on building modern and responsive web
 <div align="center">
 
 | 🖥️ Interfaces | 📱 Responsive Design |
-| :---: | :---: | :---: |
 | Modern UI | Adaptive layouts | Interactive logic |
 
 | 🔌 APIs | 🏗️ Architecture |
-| :---: | :---: | :---: |
 | Components | Data integration | Project structure |
 
 </div>
