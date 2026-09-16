@@ -69,6 +69,5 @@ I'm a **Junior Frontend Engineer** focused on building modern and responsive web
 React
 TypeScript
 Next.js
-JavaScript
 API integration
 Frontend architecture
